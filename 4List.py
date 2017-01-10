@@ -13,3 +13,4 @@ players[:2] = []
 print players
 players[:] = []
 print players
+
